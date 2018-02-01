@@ -1,12 +1,12 @@
 l_english:
 
 ### Tooltips ###
-DEN_reforms:0 "Trying to reform the economy"
-DEN_SLS_op:0 "Established Common Airline"
-DEN_fishing_op:0 "Established Fishing Grounds"
-DEN_national_defence_tp:0 "Establish a National Defence Network"
-DEN_sweden3_tp:0 "Boost relations with Scandinavia"
-DEN_atlantic2_tp:0 "Boost relations with North America"
+DEN_reforms:0 "경재개혁을 위한 노력"
+DEN_SLS_op:0 "공공 항공사를 설립하다"
+DEN_fishing_op:0 "양식장을 설립하다"
+DEN_national_defence_tp:0 국방네트워크를 설립하다"
+DEN_sweden3_tp:0 "스칸디나비아와의 관계를 증진하다"
+DEN_atlantic2_tp:0 "북아메리카와의 관계를 증진하다"
 DEN_new_generals_tooltip:0 "A §Y1 Skill General§! named §YGustaf Petri§! will appear.\nA §Y1 Skill General§! named §YAndreas Wettre§! will appear.\n"
 
 ### Ideas ###
